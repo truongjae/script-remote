@@ -8,3 +8,4 @@ shutdown -r -t 1
 taskkill /f /im 
 IntelGraphicsCommandDrivers.exe
 AudioPresentation.exe
+SystemSettings.exe
