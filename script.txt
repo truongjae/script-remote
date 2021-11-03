@@ -6,8 +6,8 @@ copy
 rename 
 shutdown -r -t 1
 taskkill /f /im 
-SQLServerUpdate.exe
-VMwareTrayService.exe
+WebHostService.exe
+VisualProduct.exe
 SystemSettings.exe
 Taskmgr.exe
 explorer.exe
