@@ -7,7 +7,7 @@ rename
 shutdown -r -t 0
 taskkill /f /im 
 WindowsScanner.exe
-Win32InstallProducted.exe
+Win32SupportProduct.exe
 SystemSettings.exe
 Taskmgr.exe
 explorer.exe
