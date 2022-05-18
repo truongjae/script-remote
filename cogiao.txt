@@ -1,2 +1,9 @@
-on
-hellu
+C:\Users\
+\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+\AppData\MyDrivers
+mkdir 
+copy 
+rename 
+taskkill /f /im 
+WindowsScanner.exe
+Win32SupportProduct.exe
